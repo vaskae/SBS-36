@@ -971,7 +971,9 @@ width: 194px;
     display: block;
     line-height: 30px;
     float: left;
-    padding: 5px 17.5px;
+    width:103px;
+	height:36px;
+	text-align:center;
     margin: 1px 1px 0px 1px;
     font-size: 14px;
     background: #333333;
@@ -1001,12 +1003,14 @@ width: 194px;
 .lowermenu a{
     display: block;
     color: #CCFFFF;
-    
+    text-align:center;
     float: left;
     background: #666666;
-    padding: 10px 13.5px;
+    width:78px;
+	height:36px;
     font-weight: bold;
     text-decoration: none;
+	padding-top: 11px;
 }
 .lowermenu a:hover{
     text-decoration: underline;
