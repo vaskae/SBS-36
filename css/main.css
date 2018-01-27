@@ -318,9 +318,10 @@ header{
    background: black;
     width: 70%;
      font-family:"DroidSans";
-   
+    clear: both;
+    
     float: left;
-   
+    overflow: hidden;
 }
 
 .slider_left_top {
@@ -328,8 +329,6 @@ header{
     margin: 15px 0 15px 0;
     min-height: 20px;
     border-bottom: 1px solid white;
-   float:none;
-   margin:0 auto;
 }
 
 .slider_left_top ul {
@@ -346,14 +345,6 @@ header{
     
 }
 
-.slider_left_top ul li img {
-   
-   margin: 0px 0px 0px 0px;
-   padding: 0;
-   
-    
-    
-}
 
 
 .slider_left_top ul li a{
