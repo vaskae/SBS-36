@@ -328,6 +328,8 @@ header{
     margin: 15px 0 15px 0;
     min-height: 20px;
     border-bottom: 1px solid white;
+   float:none;
+   margin:0 auto;
 }
 
 .slider_left_top ul {
