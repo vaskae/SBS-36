@@ -318,10 +318,9 @@ header{
    background: black;
     width: 70%;
      font-family:"DroidSans";
-    clear: both;
-    
+   
     float: left;
-    overflow: hidden;
+   
 }
 
 .slider_left_top {
