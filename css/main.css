@@ -112,7 +112,7 @@ body{
 
 header{
   background: url("../images/hader_image.png") no-repeat top;
-    
+    background-attachment:fixed;
     
   margin-bottom:20px; 
 }
